@@ -49,6 +49,9 @@ Privacy Policy for the Google Fonts API: https://developers.google.com/fonts/faq
 
 == Changelog ==
 
+= 2.6.1 - 2020-xx-xx =
+* Fix - Add defensive checks for WC Cart instance [#1440](https://github.com/woocommerce/storefront/pull/1440)
+
 = 2.6.0 - 2020-08-18 =
 * Fix - Add defensive checks for WC Cart instance [#1440](https://github.com/woocommerce/storefront/pull/1440)
 * Fix - Fix focus outline in My Account page with Firefox [#1428](https://github.com/woocommerce/storefront/pull/1428)
